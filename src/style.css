@@ -1,0 +1,32 @@
+body {
+  font-family: verdana, sans-serif;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+  width: 95%;
+}
+
+td {
+  vertical-align: top;
+}
+
+tr {
+  border: 1px solid black;
+}
+
+h2 {
+  margin-top: 0px;
+}
+
+a.clickableLink {
+	color: blue;
+	text-decoration:underline;
+}
+
+.heading {
+	font-weight:bold;
+	font-size: 120%;
+}
