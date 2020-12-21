@@ -24,7 +24,6 @@ class ExpandableSelection extends React.Component {
   }
 
   displayPartialElement() {
-    console.warn("Part")
     return (
       <span>{this.props.children.substring(0,200)}...<a className="clickableLink" onClick={this.showFull.bind(this)}>More</a></span>
     )

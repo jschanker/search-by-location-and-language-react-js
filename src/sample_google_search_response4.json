@@ -1,0 +1,498 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - \"mathematical induction\"",
+        "totalResults": "2570",
+        "searchTerms": "\"mathematical induction\"",
+        "count": 10,
+        "startIndex": 1,
+        "language": "lang_hi",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "---",
+        "cr": "countryIN"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - \"mathematical induction\"",
+        "totalResults": "2570",
+        "searchTerms": "\"mathematical induction\"",
+        "count": 10,
+        "startIndex": 11,
+        "language": "lang_hi",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "---",
+        "cr": "countryIN"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - \"mathematical induction\"",
+        "totalResults": "2570",
+        "searchTerms": "\"mathematical induction\"",
+        "count": 10,
+        "startIndex": 21,
+        "language": "lang_hi",
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "---",
+        "cr": "countryIN"
+      }
+    ]
+  },
+  "context": {
+    "title": "Hindi translation"
+  },
+  "searchInformation": {
+    "searchTime": 0.238251,
+    "formattedSearchTime": "0.24",
+    "totalResults": "2570",
+    "formattedTotalResults": "2,570"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by mathematical induction",
+      "htmlTitle": "a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by \u003cb\u003emathematical induction\u003c/b\u003e",
+      "link": "https://brainly.in/question/10138795",
+      "displayLink": "brainly.in",
+      "snippet": "Jun 1, 2019 ... Find an answer to your question a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by \nmathematical induction.",
+      "htmlSnippet": "Jun 1, 2019 \u003cb\u003e...\u003c/b\u003e Find an answer to your question a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by \u003cbr\u003e\n\u003cb\u003emathematical induction\u003c/b\u003e.",
+      "cacheId": "0qGp0Pu-6j4J",
+      "formattedUrl": "https://brainly.in/question/10138795",
+      "htmlFormattedUrl": "https://brainly.in/question/10138795",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrhIEK3wcmgIt0eUeL4xl9vl6ImWw19Z0DpggNVGBMe6GplCjcqZs2uaYi",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "market": "hi",
+            "og:image": "https://styleguide.brainly.in/images/favicons/brainly/favicon200x200-deda0c07a0.png",
+            "theme-color": "#5bb8ff",
+            "msvalidate.01": "C71347AFED3CE0CBE24CC900D75EC677",
+            "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=5.0, user-scalable=1",
+            "release": "2.0.17876",
+            "og:title": "a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by mathematical induction - Brainly.in",
+            "apple_app_config": "{\"clientId\":\"com.brainly.siwa.web\",\"redirectURI\":\"https:\\/\\/brainly.in\"}",
+            "og:url": "https://brainly.in/question/10138795",
+            "locale": "en_US",
+            "facebook_app_config": "{\"id\":449330375103437,\"namespace\":\"brainlyin\"}",
+            "og:description": "a+ar+ar^2+.......ar^n-1=a(1-r^n)/1-r prove by mathematical induction - 10138795"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://styleguide.brainly.in/images/favicons/brainly/favicon200x200-deda0c07a0.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "mathematical induction in Hindi - mathematical induction meaning in ...",
+      "htmlTitle": "\u003cb\u003emathematical induction\u003c/b\u003e in Hindi - \u003cb\u003emathematical induction\u003c/b\u003e meaning in ...",
+      "link": "https://www.hindlish.com/mathematical%20induction/mathematical%20induction-meaning-in-hindi-english",
+      "displayLink": "www.hindlish.com",
+      "snippet": "mathematical induction meaning in Hindi with examples: गणितीय आगम \nगणितीय आगमन गणितीय प्रेरण ... click for more detailed ...",
+      "htmlSnippet": "\u003cb\u003emathematical induction\u003c/b\u003e meaning in Hindi with examples: गणितीय आगम \u003cbr\u003e\nगणितीय आगमन गणितीय प्रेरण ... click for more detailed&nbsp;...",
+      "cacheId": "7BMg-f5q5EIJ",
+      "formattedUrl": "https://www.hindlish.com/.../mathematical%20induction-meaning-in-hindi- english",
+      "htmlFormattedUrl": "https://www.hindlish.com/.../mathematical%20induction-meaning-in-hindi- english",
+      "pagemap": {
+        "metatags": [
+          {
+            "applicable-device": "pc",
+            "mobile-agent": "format=html5;url=https://m.hindlish.com/mathematical induction"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What is principle of mathematical induction? Explain.",
+      "htmlTitle": "What is principle of \u003cb\u003emathematical induction\u003c/b\u003e? Explain.",
+      "link": "https://www.guffo.in/principle-mathematical-induction/4/",
+      "displayLink": "www.guffo.in",
+      "snippet": "Mar 19, 2018 ... Principle of Mathematical Induction (Equivalent form): Let S ⊆ N be such that. m \n∈ S; For each k ∈ N, k ≥ m, the following implication is true: K ...",
+      "htmlSnippet": "Mar 19, 2018 \u003cb\u003e...\u003c/b\u003e Principle of \u003cb\u003eMathematical Induction\u003c/b\u003e (Equivalent form): Let S ⊆ N be such that. m \u003cbr\u003e\n∈ S; For each k ∈ N, k ≥ m, the following implication is true: K&nbsp;...",
+      "cacheId": "9lqRABmem9EJ",
+      "formattedUrl": "https://www.guffo.in/principle-mathematical-induction/4/",
+      "htmlFormattedUrl": "https://www.guffo.in/principle-\u003cb\u003emathematical-induction\u003c/b\u003e/4/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "http://Image_179.png",
+            "og:type": "article",
+            "article:published_time": "2018-03-19T15:10:14+00:00",
+            "twitter:card": "summary",
+            "og:site_name": "IGNOU SOLVED ASSIGNMENT 2019-20 & NOTES",
+            "og:title": "What is principle of mathematical induction? Explain.",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "msapplication-tileimage": "https://i2.wp.com/www.guffo.in/wp-content/uploads/2016/08/gu.png?fit=149%2C163&ssl=1",
+            "og:description": "What is principle of mathematical induction?, Explain with the help of an example.,What is the principle of mathematical induction?, What is the first principle of mathematical induction?, What is induction method?, What is a proof by induction?",
+            "twitter:creator": "@Team_Guffo",
+            "article:publisher": "https://www.facebook.com/www.guffo.in/",
+            "article:author": "https://www.facebook.com/guffo.in/",
+            "twitter:site": "@Team_Guffo",
+            "article:modified_time": "2020-06-10T15:06:53+00:00",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:locale": "en_US",
+            "og:url": "https://www.guffo.in/principle-mathematical-induction/"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of ...",
+      "htmlTitle": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of ...",
+      "link": "https://in.pinterest.com/pin/718042734316906445/",
+      "displayLink": "in.pinterest.com",
+      "snippet": "Dec 28, 2018 - UP Board Solutions for Class 11 Maths Chapter 4 Principle of \nMathematical Induction (गणितीय आगमन का सिद्धान्त) These\n ...",
+      "htmlSnippet": "Dec 28, 2018 - UP Board Solutions for Class 11 Maths Chapter 4 Principle of \u003cbr\u003e\n\u003cb\u003eMathematical Induction\u003c/b\u003e (गणितीय आगमन का सिद्धान्त) These\u003cbr\u003e\n&nbsp;...",
+      "cacheId": "OM2Rhoh3nCQJ",
+      "formattedUrl": "https://in.pinterest.com/pin/718042734316906445/",
+      "htmlFormattedUrl": "https://in.pinterest.com/pin/718042734316906445/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQf15ofWg89yeqdxaB-Y19vkjVzs94QmC1VaXsXDu1MoNMuZGwIpKPcjBwV",
+            "width": "230",
+            "height": "219"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Pinterest",
+            "msapplication-tilecolor": "#ffffff",
+            "og:see_also": "https://www.upboardsolutions.com/class-11-maths-chapter-4/",
+            "og:image": "https://i.pinimg.com/736x/c0/c5/c1/c0c5c1083e6deed2c2b2cff687fc99f1.jpg",
+            "og:type": "pinterestapp:pin",
+            "og:image:width": "507",
+            "twitter:title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction 4.1 3  https://www.upboardsolut… | Maths solutions, Mathematical induction, Math",
+            "pinterestapp:source": "https://www.upboardsolutions.com/class-11-maths-chapter-4/",
+            "og:site_name": "Pinterest",
+            "og:title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction 4.1 3  https://www.upboardsolut… | Maths solutions, Mathematical induction, Math",
+            "og:image:height": "484",
+            "msapplication-tileimage": "https://s.pinimg.com/webapp/style/images/logo_trans_144x144-5e37c0c6.png",
+            "pinterestapp:pinboard": "https://www.pinterest.com/obulreddycbse/up-board-solutions-for-class-11-maths/",
+            "pinterestapp:repins": "13",
+            "og:description": "Dec 28, 2018 - UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त) These Solutions are part of UP Board Solutions for Class 11 Maths. Here we have given UP Board Solutions",
+            "twitter:image:src": "https://i.pinimg.com/736x/c0/c5/c1/c0c5c1083e6deed2c2b2cff687fc99f1.jpg",
+            "pinterestapp:pinner": "https://www.pinterest.com/obulreddycbse/",
+            "referrer": "origin",
+            "fb:app_id": "274266067164",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Dec 28, 2018 - UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त) These Solutions are part of UP Board Solutions for Class 11 Maths. Here we have given UP Board Solutions",
+            "og:url": "https://www.pinterest.com/pin/718042734316906445/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.pinimg.com/736x/c0/c5/c1/c0c5c1083e6deed2c2b2cff687fc99f1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Meaning of MATHEMATICAL INDUCTION in Hindi | Hindi meaning ...",
+      "htmlTitle": "Meaning of \u003cb\u003eMATHEMATICAL INDUCTION\u003c/b\u003e in Hindi | Hindi meaning ...",
+      "link": "https://shabdkosh.raftaar.in/Meaning-of-MATHEMATICAL_INDUCTION-in-Hindi",
+      "displayLink": "shabdkosh.raftaar.in",
+      "snippet": "Pronunciation of Mathematical induction play. Meaning of Mathematical induction \nin hindi. गणितीय आगमन. Advertisement. Buy Now. Powered By Raftaar ...",
+      "htmlSnippet": "Pronunciation of \u003cb\u003eMathematical induction\u003c/b\u003e play. Meaning of \u003cb\u003eMathematical induction\u003c/b\u003e \u003cbr\u003e\nin hindi. गणितीय आगमन. Advertisement. Buy Now. Powered By Raftaar&nbsp;...",
+      "cacheId": "_ZPHeOaLLKwJ",
+      "formattedUrl": "https://shabdkosh.raftaar.in/Meaning-of-MATHEMATICAL_INDUCTION-in -Hindi",
+      "htmlFormattedUrl": "https://shabdkosh.raftaar.in/Meaning-of-\u003cb\u003eMATHEMATICAL_INDUCTION\u003c/b\u003e-in -Hindi",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS23-mzGVSsTq0jZCjhrY_SD88Yv__S9pn99dHz3WqU2C7HrzAM7Igyas8",
+            "width": "300",
+            "height": "122"
+          }
+        ],
+        "metatags": [
+          {
+            "last-modified": "Sun Dec 20 9:24:14 IST 2020",
+            "copyright": "Copyright © 2007-2020 by raftaar.in, All rights reserved.",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "author": "Raftaar News(Latest Hindi News)",
+            "rating": "General",
+            "google": "notranslate",
+            "atdlayout": "ros",
+            "keyword": "Meaning"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://shabdkosh.raftaar.in/assets/images/pollution02.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "RD Sharma Class 11 Solutions Chapter 12 Mathematical Induction ...",
+      "htmlTitle": "RD Sharma Class 11 Solutions Chapter 12 \u003cb\u003eMathematical Induction\u003c/b\u003e ...",
+      "link": "https://www.ncertbooks.guru/rd-sharma-class-11-solutions-chapter-12/",
+      "displayLink": "www.ncertbooks.guru",
+      "snippet": "Jul 19, 2019 ... Free PDF download of RD Sharma Class 11 Solutions Chapter 12 Mathematical \nInduction solved by Expert Maths Teachers on NCERTBooks.",
+      "htmlSnippet": "Jul 19, 2019 \u003cb\u003e...\u003c/b\u003e Free PDF download of RD Sharma Class 11 Solutions Chapter 12 \u003cb\u003eMathematical\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eInduction\u003c/b\u003e solved by Expert Maths Teachers on NCERTBooks.",
+      "cacheId": "AcAhLnm7FPcJ",
+      "formattedUrl": "https://www.ncertbooks.guru/rd-sharma-class-11-solutions-chapter-12/",
+      "htmlFormattedUrl": "https://www.ncertbooks.guru/rd-sharma-class-11-solutions-chapter-12/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkQEtkdWZDZwBV4FhFllxO3ky-uhr0FQ3GGiguCsOF0DblNc318BkuNId2",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i0.wp.com/www.ncertbooks.guru/wp-content/uploads/2019/06/RD-Sharma-Class-11-Solutions-Chapter-12.png?fit=560%2C315&ssl=1",
+            "og:type": "article",
+            "article:section": "RD Sharma Solutions",
+            "article:published_time": "2019-07-19T17:47:36+00:00",
+            "og:image:width": "560",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "RD Sharma Class 11 Solutions Chapter 12 Mathematical Induction PDF Download",
+            "og:site_name": "NCERT Books",
+            "og:title": "RD Sharma Class 11 Solutions Chapter 12 Mathematical Induction PDF Download",
+            "og:image:height": "315",
+            "og:updated_time": "2019-07-21T04:14:58+00:00",
+            "og:description": "Free PDF download of RD Sharma Class 11 Solutions Chapter 12 Mathematical Induction solved by Expert Maths Teachers on NCERTBooks.Guru. All the exercise of Chapter 12 Mathematical Induction RD Sharma Class 11 questions with Solutions to help you to revise complete Syllabus and Score More marks in JEE Mains, JEE Advanced, and Engineering entrance exams.",
+            "og:image:secure_url": "https://i0.wp.com/www.ncertbooks.guru/wp-content/uploads/2019/06/RD-Sharma-Class-11-Solutions-Chapter-12.png?fit=560%2C315&ssl=1",
+            "twitter:image": "https://i0.wp.com/www.ncertbooks.guru/wp-content/uploads/2019/06/RD-Sharma-Class-11-Solutions-Chapter-12.png?fit=560%2C315&ssl=1",
+            "article:modified_time": "2019-07-21T04:14:58+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Free PDF download of RD Sharma Class 11 Solutions Chapter 12 Mathematical Induction solved by Expert Maths Teachers on NCERTBooks.Guru. All the exercise of Chapter 12 Mathematical Induction RD Sharma Class 11 questions with Solutions to help you to revise complete Syllabus and Score More marks in JEE Mains, JEE Advanced, and Engineering entrance exams.",
+            "og:locale": "en_US",
+            "og:url": "https://www.ncertbooks.guru/rd-sharma-class-11-solutions-chapter-12/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i0.wp.com/www.ncertbooks.guru/wp-content/uploads/2019/06/RD-Sharma-Class-11-Solutions-Chapter-12.png?fit=560%2C315&ssl=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Principle Of Mathematical Induction, Class 11 Mathematics NCERT ...",
+      "htmlTitle": "Principle Of \u003cb\u003eMathematical Induction\u003c/b\u003e, Class 11 Mathematics NCERT ...",
+      "link": "https://www.evidyarthi.in/cbse/classxi/mathematics-classxi/principle-of-mathematical-induction/principle-of-mathematical-induction-ncert-solutions",
+      "displayLink": "www.evidyarthi.in",
+      "snippet": "CBSE Class XI Maths Solutions, Mathematics Class 11 Principle Of Mathematical \nInduction Chapter 4 NCERT Solutions.",
+      "htmlSnippet": "CBSE Class XI Maths Solutions, Mathematics Class 11 Principle Of \u003cb\u003eMathematical\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eInduction\u003c/b\u003e Chapter 4 NCERT Solutions.",
+      "cacheId": "_tXfVd6VVVgJ",
+      "formattedUrl": "https://www.evidyarthi.in/...mathematical-induction/principle-of- mathematical-induction-ncert-solutions",
+      "htmlFormattedUrl": "https://www.evidyarthi.in/...\u003cb\u003emathematical-induction\u003c/b\u003e/principle-of- \u003cb\u003emathematical-induction\u003c/b\u003e-ncert-solutions",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKyihDvqrC6TsKJTNmPrmH5yRqnwscN7EFlU7jE6616US_T2lpIxHnGut",
+            "width": "201",
+            "height": "251"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ],
+        "creativework": [
+          {
+            "headline": "Principle Of Mathematical Induction, Class 11 Mathematics NCERT Solutions"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.evidyarthi.in/wp-content/uploads/2015/04/11th-Maths-Principle-of-Mathematical-Induction-1.jpg"
+          }
+        ],
+        "wpheader": [
+          {
+            "headline": "eVidyarthi"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "url": "eVidyarthi"
+          }
+        ],
+        "wpsidebar": [
+          {
+            "url": "Important"
+          }
+        ],
+        "searchaction": [
+          {
+            "query-input": "name=s",
+            "target": "https://www.evidyarthi.in/?s={s}"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Using prineiple of mathematical induction, proee the followi ? | Scholr",
+      "htmlTitle": "Using prineiple of \u003cb\u003emathematical induction\u003c/b\u003e, proee the followi ? | Scholr",
+      "link": "https://www.scholr.com/community/question/using-prineiple-of-mathematical-inductio/220465/",
+      "displayLink": "www.scholr.com",
+      "snippet": "Consider. Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of \nmathematical induction, statement P(n) is true for all natural numbers i.e., n.",
+      "htmlSnippet": "Consider. Thus, P(k + 1) is true whenever P(k) is true. Hence, by the principle of \u003cbr\u003e\n\u003cb\u003emathematical induction\u003c/b\u003e, statement P(n) is true for all natural numbers i.e., n.",
+      "cacheId": "PdMTUB-VI2sJ",
+      "formattedUrl": "https://www.scholr.com/community/question/using...of.../220465/",
+      "htmlFormattedUrl": "https://www.scholr.com/community/question/using...of.../220465/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "principle of mathematical induction exercise 4.1 solution Archives ...",
+      "htmlTitle": "principle of \u003cb\u003emathematical induction\u003c/b\u003e exercise 4.1 solution Archives ...",
+      "link": "https://www.upboardmaster.com/tag/principle-of-mathematical-induction-exercise-4-1-solution/",
+      "displayLink": "www.upboardmaster.com",
+      "snippet": "9 नवंबर 2020 ... कक्षा 11 मैथ्स अध्याय 4 Principle of Mathematical Induction (\nगणितीय आगमन का सिद्धान्त) हिंदी ...",
+      "htmlSnippet": "9 नवंबर 2020 \u003cb\u003e...\u003c/b\u003e कक्षा 11 मैथ्स अध्याय 4 Principle of \u003cb\u003eMathematical Induction\u003c/b\u003e (\u003cbr\u003e\nगणितीय आगमन का सिद्धान्त) हिंदी&nbsp;...",
+      "cacheId": "xcRB-mRPmMwJ",
+      "formattedUrl": "https://www.upboardmaster.com/.../principle-of-mathematical-induction- exercise-4-1-solution/",
+      "htmlFormattedUrl": "https://www.upboardmaster.com/.../principle-of-\u003cb\u003emathematical-induction\u003c/b\u003e- exercise-4-1-solution/",
+      "pagemap": {
+        "wpfooter": [
+          {
+            "url": "GeneratePress"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxi2p6UX4-xMs7h0PbofuvXzYiBDfOXBJn0agT0d30PkbJVXQotgt0M-0",
+            "width": "301",
+            "height": "167"
+          }
+        ],
+        "person": [
+          {
+            "name": "Editorial Staff",
+            "url": "Editorial Staff"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "UP Board\ufeff Master",
+            "geo.region": "IN",
+            "og:title": "principle of mathematical induction exercise 4.1 solution Archives « UP Board\ufeff Master",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "geo.position": "24.7100514;78.4354042",
+            "msapplication-tileimage": "https://1ovubpc05lzax.cdn.shift8web.ca/wp-content/uploads/2020/01/cropped-logo-270x270.png",
+            "og:description": "UP Board Online Study Notes, Exam Question papers, Guide, Textbook Solutions and Syllabus for Class 12. Genext Students upmsp",
+            "twitter:site": "@upboardmaster",
+            "viewport": "width=device-width, initial-scale=1",
+            "onesignal": "wordpress-plugin",
+            "og:locale": "en_US",
+            "og:url": "https://www.upboardmaster.com/tag/principle-of-mathematical-induction-exercise-4-1-solution/",
+            "geo.placename": "Lalitpur"
+          }
+        ],
+        "creativework": [
+          {
+            "image": "https://1ovubpc05lzax.cdn.shift8web.ca/wp-content/uploads/2020/11/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-11-%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A5%8D%E0%A4%B8.jpg",
+            "text": "कक्षा 11 मैथ्स अध्याय 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त) हिंदी में upboardmas...",
+            "headline": "कक्षा 11 मैथ्स अध्याय 4 हिंदी में",
+            "datepublished": "2020-11-09T09:57:06+00:00"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://1ovubpc05lzax.cdn.shift8web.ca/wp-content/uploads/2020/11/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE-11-%E0%A4%AE%E0%A5%88%E0%A4%A5%E0%A5%8D%E0%A4%B8.jpg"
+          }
+        ],
+        "wpheader": [
+          {
+            "description": "UP Board TextBook Solutions for Class 12th, 11th, 10th, 9th, 8th, 7th, and 6th",
+            "headline": "UP Board\ufeff Master"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of ...",
+      "htmlTitle": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of ...",
+      "link": "http://upboardsolutions.in/up-board-solutions-in-for-class-11-maths-chapter-4-principle-of-mathematical-induction-%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4%E0%A5%80%E0%A4%AF-%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%A8-%E0%A4%95%E0%A4%BE/",
+      "displayLink": "upboardsolutions.in",
+      "snippet": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical \nInduction (गणितीय आगमन का सिद्धान्त). These Solutions are\n ...",
+      "htmlSnippet": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of \u003cb\u003eMathematical\u003c/b\u003e \u003cbr\u003e\n\u003cb\u003eInduction\u003c/b\u003e (गणितीय आगमन का सिद्धान्त). These Solutions are\u003cbr\u003e\n&nbsp;...",
+      "cacheId": "x2EESEUr7GUJ",
+      "formattedUrl": "upboardsolutions.in/up-board-solutions-in-for-class-11-maths-chapter-4- principle-of-mathematical-induction-गणितीय-आगमन-का/",
+      "htmlFormattedUrl": "upboardsolutions.in/up-board-solutions-in-for-class-11-maths-chapter-4- principle-of-\u003cb\u003emathematical-induction\u003c/b\u003e-गणितीय-आगमन-का/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdYE0K0Fpo2AbfSErhmbbDVdtgEYrKX-ccDKx0qsilfxKcgrvOjjFgZHE",
+            "width": "265",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i0.wp.com/farm2.staticflickr.com/1858/44018478174_01f1c2c8f6_o.png?resize=580%2C417&ssl=1",
+            "og:type": "article",
+            "article:section": "UP Board Solutions for Class 11 Maths",
+            "article:published_time": "2019-07-01T18:53:37+00:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त) - upboardsolutions.in",
+            "og:site_name": "upboardsolutions.in",
+            "og:title": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त) - upboardsolutions.in",
+            "og:updated_time": "2019-10-17T14:52:21+00:00",
+            "og:description": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त)",
+            "og:image:secure_url": "https://i0.wp.com/farm2.staticflickr.com/1858/44018478174_01f1c2c8f6_o.png?resize=580%2C417&ssl=1",
+            "twitter:image": "https://i0.wp.com/farm2.staticflickr.com/1858/44018478174_01f1c2c8f6_o.png?resize=580%2C417&ssl=1",
+            "article:modified_time": "2019-10-17T14:52:21+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "UP Board Solutions for Class 11 Maths Chapter 4 Principle of Mathematical Induction (गणितीय आगमन का सिद्धान्त)",
+            "og:locale": "en_US",
+            "og:url": "http://upboardsolutions.in/up-board-solutions-in-for-class-11-maths-chapter-4-principle-of-mathematical-induction-%e0%a4%97%e0%a4%a3%e0%a4%bf%e0%a4%a4%e0%a5%80%e0%a4%af-%e0%a4%86%e0%a4%97%e0%a4%ae%e0%a4%a8-%e0%a4%95%e0%a4%be/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i0.wp.com/farm2.staticflickr.com/1858/44018478174_01f1c2c8f6_o.png?resize=580%2C417&ssl=1"
+          }
+        ]
+      }
+    }
+  ]
+}

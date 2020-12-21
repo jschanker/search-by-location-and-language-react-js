@@ -71,7 +71,7 @@ class SearchResultTable extends React.Component {
             </td>
           </tr>
           {this.state.videos.map((item, index) => (
-            <SearchResult key={index} videoId={item.id.videoId} {...item.snippet} />
+            <SearchResult key={index} videoId={item.id.videoId || item.id} {...item.snippet} />
           ))}
         </tbody>
       </table>
